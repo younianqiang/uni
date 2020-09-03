@@ -1,12 +1,18 @@
 # Your Name or Company
-title: Uni Kravitz
+title: 小游的个人技术博客
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  技术博客
 
 # A brief blurb about yourself
 content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
-
+baseurl: ""
+url: younianqiang.github.io
+author: 
+    fullname: 小游
+    github: younianqiang
+    linkedin: 
+    email: 996135854@qq.com
 # Add your social links
 social:
   - platform: github
